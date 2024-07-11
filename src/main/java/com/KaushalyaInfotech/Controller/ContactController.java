@@ -14,7 +14,7 @@ import com.KaushalyaInfotech.Service.ContactService;
 import com.KaushalyaInfotech.Service.EmailService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://93.127.166.111:3000")
 @RequestMapping("/api")
 public class ContactController {
 
